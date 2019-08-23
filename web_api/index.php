@@ -1,4 +1,9 @@
 <?php
+/*
+* Developer-Ye Yint Lwin
+* 2017
+*
+* */
 function get_data($url) { 
 $ch = curl_init(); 
 curl_setopt($ch, CURLOPT_URL, $url); 
