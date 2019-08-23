@@ -1,5 +1,10 @@
 package com.yeyintlwin.twodigitlottery
 
+/*
+* Developer-Ye Yint Lwin
+* 23 Aug 2019
+*
+* */
 import android.annotation.SuppressLint
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
